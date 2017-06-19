@@ -34,6 +34,9 @@
                             <constraint firstItem="78x-Ze-y45" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="quU-US-AyP"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="iPhoneImageView" destination="78x-Ze-y45" id="JIr-Gp-fAp"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
