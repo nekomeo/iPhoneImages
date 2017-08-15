@@ -13,7 +13,6 @@
 		6A4115581EF850CA00D8C8EA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A4115561EF850CA00D8C8EA /* Main.storyboard */; };
 		6A41155A1EF850CA00D8C8EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6A4115591EF850CA00D8C8EA /* Assets.xcassets */; };
 		6A41155D1EF850CA00D8C8EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A41155B1EF850CA00D8C8EA /* LaunchScreen.storyboard */; };
-		6A4115661EF8599D00D8C8EA /* iPhoneImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A4115651EF8599D00D8C8EA /* iPhoneImageView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,8 +26,6 @@
 		6A4115591EF850CA00D8C8EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6A41155C1EF850CA00D8C8EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6A41155E1EF850CA00D8C8EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6A4115641EF8599D00D8C8EA /* iPhoneImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iPhoneImageView.h; sourceTree = "<group>"; };
-		6A4115651EF8599D00D8C8EA /* iPhoneImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iPhoneImageView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,8 +66,6 @@
 				6A4115591EF850CA00D8C8EA /* Assets.xcassets */,
 				6A41155B1EF850CA00D8C8EA /* LaunchScreen.storyboard */,
 				6A41155E1EF850CA00D8C8EA /* Info.plist */,
-				6A4115641EF8599D00D8C8EA /* iPhoneImageView.h */,
-				6A4115651EF8599D00D8C8EA /* iPhoneImageView.m */,
 				6A41154D1EF850CA00D8C8EA /* Supporting Files */,
 			);
 			path = iPhoneImages;
@@ -156,7 +151,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				6A4115551EF850CA00D8C8EA /* ViewController.m in Sources */,
-				6A4115661EF8599D00D8C8EA /* iPhoneImageView.m in Sources */,
 				6A4115521EF850CA00D8C8EA /* AppDelegate.m in Sources */,
 				6A41154F1EF850CA00D8C8EA /* main.m in Sources */,
 			);
